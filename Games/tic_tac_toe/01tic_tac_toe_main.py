@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-import Tic_Tac_Toe_02_board as board
-import Tic_Tac_Toe_02_KI as KI
+import 02tic_tac_toe_board as board
+import 03tic_tac_toe_KI as KI
 
 position = board.clear_board()
 
