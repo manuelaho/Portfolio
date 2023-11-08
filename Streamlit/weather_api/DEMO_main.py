@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Sep  8 10:58:02 2023
-@author: Fujitsu
-"""
-
-# streamlit mit Datei aufrufen in Anaconda Prompt:
-# Documents\Data Science_Manu\10. Woche\Streamlit 2>streamlit run DEMO_main._Kopie.py
 
 import streamlit as st
 import pandas as pd
