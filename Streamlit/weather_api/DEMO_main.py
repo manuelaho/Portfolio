@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 
 from io import BytesIO                 # ein Hack, um Schaubild darzustellen
 
-import api_Kopie                                          # unser Modul zur Kommunikation mit api
-from data_Kopie import get_hourly_data, get_daily_data    # unser Modul zur Verarbeitung der API-Daten
+import api                                         # unser Modul zur Kommunikation mit api
+from data import get_hourly_data, get_daily_data    # unser Modul zur Verarbeitung der API-Daten
 
 
 st.set_page_config(layout = "wide")                       # Befehl um layout - Typ zu erstellen
