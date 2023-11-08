@@ -4,7 +4,7 @@ import requests
 # Basiszugriff auf URL und key in Variable speichern 
 BASE_URL = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline"
 
-key = "URFPPJA6RGUSVVE64CBL5KXBP"
+key = "xxx"
 
 
 # Klassen für Fehler bauen
